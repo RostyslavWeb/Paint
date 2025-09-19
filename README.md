@@ -1,5 +1,5 @@
 # Paint
-
+## Features:
 + drawing using the points
 + choosing the thickness of the pen
 + choosing colors and also you can pick a unique color from palette
